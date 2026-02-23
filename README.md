@@ -1,62 +1,60 @@
-📈 Stock Market Sentiment Analysis
-📌 Project Overview
+# 📈 Stock Market Sentiment Analysis
 
-Stock Market Sentiment Analysis is a machine learning and NLP-based project that analyzes financial news headlines to determine market sentiment (positive, negative, or neutral). The goal is to understand how public sentiment influences stock market trends and supports data-driven decision-making.
+## 📌 Project Overview
+Stock Market Sentiment Analysis is an NLP and Machine Learning–based project that analyzes financial news headlines to determine market sentiment (positive, negative, or neutral). This project helps in understanding how public sentiment impacts stock market trends.
 
-🎯 Objectives
+---
 
-Analyze stock-related news headlines using Natural Language Processing (NLP)
+## 🎯 Objectives
+- Analyze stock-related news headlines using Natural Language Processing (NLP)
+- Classify sentiment as positive, negative, or neutral
+- Convert unstructured text data into meaningful insights
+- Support data-driven financial decision-making
 
-Classify sentiment as positive, negative, or neutral
+---
 
-Extract meaningful insights from unstructured financial text data
+## 🧠 Technologies & Tools Used
+- **Programming Language:** Python  
+- **Libraries:** Pandas, NumPy, Scikit-learn, NLTK  
+- **Techniques:** Text Preprocessing, TF-IDF Vectorization, Sentiment Analysis  
+- **Environment:** Jupyter Notebook  
 
-Support market trend analysis using sentiment scores
+---
 
-🧠 Technologies & Tools Used
+## ⚙️ Methodology
+1. Collect financial news headlines dataset  
+2. Perform text preprocessing (tokenization, stop-word removal, lemmatization)  
+3. Extract features using TF-IDF  
+4. Train machine learning models for sentiment classification  
+5. Analyze and visualize sentiment trends  
 
-Programming Language: Python
+---
 
-Libraries: Pandas, NumPy, Scikit-learn, NLTK
+## 📊 Dataset
+- Financial news headlines related to the stock market
+- Cleaned and structured for NLP processing
 
-Techniques: Text preprocessing, TF-IDF, Sentiment Analysis, Machine Learning
+---
 
-Environment: Jupyter Notebook
+## 📈 Output
+- Sentiment-labeled news headlines  
+- Visual insights into market sentiment trends  
 
-⚙️ Methodology
+---
 
-Data collection of stock market news headlines
+## 🚀 Applications
+- Stock market trend analysis  
+- Financial forecasting support  
+- Market sentiment monitoring  
+- Decision support systems  
 
-Text preprocessing (tokenization, stop-word removal, lemmatization)
+---
 
-Feature extraction using TF-IDF Vectorization
+## 🏁 Conclusion
+This project demonstrates how NLP and Machine Learning can be applied to analyze financial news and extract actionable insights for understanding stock market sentiment.
 
-Sentiment classification using machine learning models
+---
 
-Visualization and interpretation of sentiment trends
-
-📊 Dataset
-
-Financial news headlines related to stock market movements
-
-Structured and cleaned for NLP processing
-
-📈 Output
-
-Sentiment classification of news headlines
-
-Insightful analysis of how sentiment correlates with market behavior
-
-🚀 Applications
-
-Stock market trend analysis
-
-Financial decision support systems
-
-Algorithmic trading assistance
-
-Market sentiment monitoring
-
-🏁 Conclusion
-
-This project demonstrates the effective use of NLP and Machine Learning to convert unstructured financial news into actionable insights, helping investors and analysts better understand market sentiment.
+## ▶️ How to Run
+1. Clone the repository  
+2. Install required libraries  
