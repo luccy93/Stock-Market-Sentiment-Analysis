@@ -1,11 +1,11 @@
-# 📈 Stock Market Sentiment Analysis
+#  Stock Market Sentiment Analysis
 
-## 📌 Project Overview
+##  Project Overview
 Stock Market Sentiment Analysis is an NLP and Machine Learning–based project that analyzes financial news headlines to determine market sentiment (positive, negative, or neutral). This project helps in understanding how public sentiment impacts stock market trends.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze stock-related news headlines using Natural Language Processing (NLP)
 - Classify sentiment as positive, negative, or neutral
 - Convert unstructured text data into meaningful insights
@@ -13,7 +13,7 @@ Stock Market Sentiment Analysis is an NLP and Machine Learning–based project t
 
 ---
 
-## 🧠 Technologies & Tools Used
+##  Technologies & Tools Used
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, NLTK  
 - **Techniques:** Text Preprocessing, TF-IDF Vectorization, Sentiment Analysis  
@@ -21,7 +21,7 @@ Stock Market Sentiment Analysis is an NLP and Machine Learning–based project t
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 1. Collect financial news headlines dataset  
 2. Perform text preprocessing (tokenization, stop-word removal, lemmatization)  
 3. Extract features using TF-IDF  
@@ -30,19 +30,19 @@ Stock Market Sentiment Analysis is an NLP and Machine Learning–based project t
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - Financial news headlines related to the stock market
 - Cleaned and structured for NLP processing
 
 ---
 
-## 📈 Output
+##  Output
 - Sentiment-labeled news headlines  
 - Visual insights into market sentiment trends  
 
 ---
 
-## 🚀 Applications
+##  Applications
 - Stock market trend analysis  
 - Financial forecasting support  
 - Market sentiment monitoring  
@@ -50,11 +50,11 @@ Stock Market Sentiment Analysis is an NLP and Machine Learning–based project t
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 This project demonstrates how NLP and Machine Learning can be applied to analyze financial news and extract actionable insights for understanding stock market sentiment.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 1. Clone the repository  
 2. Install required libraries  
